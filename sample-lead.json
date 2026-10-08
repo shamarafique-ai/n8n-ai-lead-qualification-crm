@@ -1,0 +1,21 @@
+{
+  "lead_id": "demo-001",
+  "name": "Alex Morgan",
+  "email": "alex.morgan@example.com",
+  "phone": "+15550001234",
+  "source": "Website Form",
+  "service_interest": "AI Automation",
+  "budget": "2500-5000",
+  "timeline": "Within 30 days",
+  "company": "Demo Solutions",
+  "message": "We want to automate lead qualification and CRM follow-up.",
+  "qualification": {
+    "score": 85,
+    "status": "Qualified",
+    "priority": "High"
+  },
+  "routing": {
+    "destination": "Sales Pipeline",
+    "stage": "Qualified Lead"
+  }
+}
